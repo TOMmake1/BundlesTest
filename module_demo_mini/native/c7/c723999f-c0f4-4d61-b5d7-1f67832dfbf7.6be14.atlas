@@ -1,0 +1,20 @@
+
+mtr.png
+size: 450,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+head
+  rotate: true
+  xy: 2, 2
+  size: 137, 206
+  orig: 137, 206
+  offset: 0, 0
+  index: -1
+matong
+  rotate: false
+  xy: 2, 141
+  size: 201, 307
+  orig: 203, 309
+  offset: 1, 1
+  index: -1

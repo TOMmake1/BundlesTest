@@ -1,0 +1,69 @@
+
+B3-2.png
+size: 465,465
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B3-2/1
+  rotate: false
+  xy: 85, 400
+  size: 93, 63
+  orig: 95, 65
+  offset: 1, 1
+  index: -1
+B3-2/10
+  rotate: true
+  xy: 365, 394
+  size: 69, 98
+  orig: 69, 100
+  offset: 0, 1
+  index: -1
+B3-2/2
+  rotate: true
+  xy: 43, 432
+  size: 31, 40
+  orig: 34, 44
+  offset: 2, 2
+  index: -1
+B3-2/3
+  rotate: true
+  xy: 2, 434
+  size: 29, 39
+  orig: 32, 41
+  offset: 1, 1
+  index: -1
+B3-2/5
+  rotate: true
+  xy: 83, 257
+  size: 135, 296
+  orig: 138, 299
+  offset: 1, 1
+  index: -1
+B3-2/6
+  rotate: true
+  xy: 2, 347
+  size: 83, 79
+  orig: 88, 85
+  offset: 2, 3
+  index: -1
+B3-2/7
+  rotate: true
+  xy: 180, 398
+  size: 65, 86
+  orig: 67, 88
+  offset: 1, 1
+  index: -1
+B3-2/8
+  rotate: true
+  xy: 2, 142
+  size: 113, 432
+  orig: 113, 432
+  offset: 0, 0
+  index: -1
+B3-2/9
+  rotate: true
+  xy: 268, 396
+  size: 67, 95
+  orig: 69, 97
+  offset: 2, 2
+  index: -1
