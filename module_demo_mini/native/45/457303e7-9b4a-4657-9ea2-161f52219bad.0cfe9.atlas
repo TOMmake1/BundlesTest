@@ -1,0 +1,41 @@
+
+czn.png
+size: 251,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 74
+  size: 103, 175
+  orig: 103, 175
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 145, 90
+  size: 36, 159
+  orig: 36, 159
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 107, 77
+  size: 36, 172
+  orig: 37, 172
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 79, 6
+  size: 34, 66
+  orig: 36, 68
+  offset: 1, 1
+  index: -1
+5
+  rotate: true
+  xy: 2, 2
+  size: 70, 75
+  orig: 73, 78
+  offset: 1, 1
+  index: -1
