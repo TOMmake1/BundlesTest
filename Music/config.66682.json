@@ -1,1 +1,0 @@
-{"importBase":"import","nativeBase":"native","name":"Music","deps":[],"uuids":["14qO2hAYVBE52GcUXBCFXR"],"paths":{"0":["BGMusic",0]},"scenes":{},"packs":{},"versions":{"import":[0,"6a899"],"native":[0,"8cd68"]},"redirect":[],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.AudioClip"]}
