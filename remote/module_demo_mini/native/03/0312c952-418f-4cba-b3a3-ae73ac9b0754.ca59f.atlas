@@ -1,0 +1,41 @@
+
+txl.png
+size: 521,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hs
+  rotate: false
+  xy: 351, 416
+  size: 116, 103
+  orig: 118, 103
+  offset: 1, 0
+  index: -1
+ht
+  rotate: false
+  xy: 262, 195
+  size: 87, 324
+  orig: 88, 325
+  offset: 0, 0
+  index: -1
+qs
+  rotate: false
+  xy: 2, 28
+  size: 258, 491
+  orig: 349, 510
+  offset: 0, 0
+  index: -1
+qt
+  rotate: false
+  xy: 374, 70
+  size: 74, 344
+  orig: 74, 345
+  offset: 0, 1
+  index: -1
+st
+  rotate: false
+  xy: 262, 2
+  size: 110, 191
+  orig: 110, 191
+  offset: 0, 0
+  index: -1
