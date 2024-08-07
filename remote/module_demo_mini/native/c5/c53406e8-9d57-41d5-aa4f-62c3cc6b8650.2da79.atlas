@@ -1,0 +1,167 @@
+
+cdz.png
+size: 635,635
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 (12)
+  rotate: false
+  xy: 312, 237
+  size: 124, 170
+  orig: 124, 170
+  offset: 0, 0
+  index: -1
+1 (19)
+  rotate: true
+  xy: 440, 64
+  size: 58, 140
+  orig: 60, 140
+  offset: 1, 0
+  index: -1
+1 (20)
+  rotate: true
+  xy: 93, 21
+  size: 34, 118
+  orig: 34, 118
+  offset: 0, 0
+  index: -1
+1 (3)
+  rotate: false
+  xy: 220, 18
+  size: 78, 111
+  orig: 78, 111
+  offset: 0, 0
+  index: -1
+1 (5)
+  rotate: true
+  xy: 597, 435
+  size: 198, 36
+  orig: 199, 36
+  offset: 0, 0
+  index: -1
+1 (6)
+  rotate: true
+  xy: 300, 40
+  size: 22, 270
+  orig: 22, 270
+  offset: 0, 0
+  index: -1
+1 (8)
+  rotate: false
+  xy: 2, 17
+  size: 89, 244
+  orig: 89, 244
+  offset: 0, 0
+  index: -1
+1(25)
+  rotate: false
+  xy: 93, 2
+  size: 43, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+erhuan
+  rotate: false
+  xy: 465, 15
+  size: 15, 23
+  orig: 17, 25
+  offset: 1, 1
+  index: -1
+she
+  rotate: false
+  xy: 93, 57
+  size: 125, 204
+  orig: 125, 204
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 435, 454
+  size: 160, 179
+  orig: 161, 179
+  offset: 0, 0
+  index: -1
+shew
+  rotate: false
+  xy: 573, 139
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 438, 278
+  size: 174, 138
+  orig: 174, 138
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 305, 85
+  size: 133, 150
+  orig: 135, 152
+  offset: 1, 1
+  index: -1
+toufa
+  rotate: true
+  xy: 300, 4
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 2, 263
+  size: 308, 144
+  orig: 308, 144
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 409
+  size: 431, 224
+  orig: 445, 233
+  offset: 1, 8
+  index: -1
+youshou
+  rotate: false
+  xy: 220, 131
+  size: 83, 130
+  orig: 83, 130
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 440, 124
+  size: 152, 131
+  orig: 153, 131
+  offset: 1, 0
+  index: -1
+图层 103
+  rotate: false
+  xy: 578, 356
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+图层 104
+  rotate: false
+  xy: 573, 199
+  size: 60, 77
+  orig: 60, 77
+  offset: 0, 0
+  index: -1
+图层 105
+  rotate: true
+  xy: 388, 4
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+图层 106
+  rotate: false
+  xy: 578, 278
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+baoan.png
+size: 344,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A3
+  rotate: false
+  xy: 284, 162
+  size: 48, 180
+  orig: 48, 180
+  offset: 0, 0
+  index: -1
+B3
+  rotate: false
+  xy: 129, 170
+  size: 46, 172
+  orig: 46, 172
+  offset: 0, 0
+  index: -1
+baoanjup2
+  rotate: false
+  xy: 2, 46
+  size: 125, 296
+  orig: 125, 296
+  offset: 0, 0
+  index: -1
+st3
+  rotate: false
+  xy: 196, 63
+  size: 86, 279
+  orig: 86, 279
+  offset: 0, 0
+  index: -1
+ys3
+  rotate: false
+  xy: 129, 79
+  size: 24, 89
+  orig: 26, 89
+  offset: 2, 0
+  index: -1
+zs3
+  rotate: true
+  xy: 93, 20
+  size: 24, 101
+  orig: 24, 101
+  offset: 0, 0
+  index: -1
+组 4
+  rotate: true
+  xy: 196, 2
+  size: 59, 133
+  orig: 59, 133
+  offset: 0, 0
+  index: -1
+组 8
+  rotate: true
+  xy: 2, 6
+  size: 38, 89
+  orig: 38, 89
+  offset: 0, 0
+  index: -1
+组 8 副本
+  rotate: false
+  xy: 284, 75
+  size: 52, 85
+  orig: 52, 85
+  offset: 0, 0
+  index: -1
