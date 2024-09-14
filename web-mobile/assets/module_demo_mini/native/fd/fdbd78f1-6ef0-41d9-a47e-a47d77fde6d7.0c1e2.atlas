@@ -1,0 +1,125 @@
+
+DG.png
+size: 663,663
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoju (1)
+  rotate: true
+  xy: 224, 10
+  size: 53, 96
+  orig: 53, 96
+  offset: 0, 0
+  index: -1
+daoju (10)
+  rotate: false
+  xy: 526, 220
+  size: 75, 130
+  orig: 75, 130
+  offset: 0, 0
+  index: -1
+daoju (2)
+  rotate: false
+  xy: 603, 259
+  size: 55, 91
+  orig: 55, 91
+  offset: 0, 0
+  index: -1
+daoju (3)
+  rotate: false
+  xy: 466, 228
+  size: 58, 123
+  orig: 58, 123
+  offset: 0, 0
+  index: -1
+daoju (4)
+  rotate: true
+  xy: 474, 22
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: -1
+daoju (5)
+  rotate: false
+  xy: 474, 88
+  size: 73, 130
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+daoju (6)
+  rotate: false
+  xy: 614, 563
+  size: 47, 98
+  orig: 47, 98
+  offset: 0, 0
+  index: -1
+daoju (7)
+  rotate: false
+  xy: 528, 482
+  size: 84, 179
+  orig: 84, 179
+  offset: 0, 0
+  index: -1
+daoju (8)
+  rotate: false
+  xy: 614, 491
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+daoju (9)
+  rotate: false
+  xy: 549, 110
+  size: 63, 108
+  orig: 63, 108
+  offset: 0, 0
+  index: -1
+dengzi
+  rotate: false
+  xy: 2, 8
+  size: 220, 203
+  orig: 225, 209
+  offset: 2, 3
+  index: -1
+gu1
+  rotate: false
+  xy: 224, 65
+  size: 155, 140
+  orig: 155, 140
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 213
+  size: 298, 448
+  orig: 298, 448
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: true
+  xy: 466, 353
+  size: 308, 60
+  orig: 314, 64
+  offset: 3, 2
+  index: -1
+youshou
+  rotate: false
+  xy: 381, 51
+  size: 91, 154
+  orig: 91, 154
+  offset: 0, 0
+  index: -1
+youxiji
+  rotate: false
+  xy: 302, 207
+  size: 162, 454
+  orig: 166, 458
+  offset: 1, 3
+  index: -1
+zuoshou
+  rotate: true
+  xy: 528, 352
+  size: 128, 99
+  orig: 129, 100
+  offset: 1, 0
+  index: -1
