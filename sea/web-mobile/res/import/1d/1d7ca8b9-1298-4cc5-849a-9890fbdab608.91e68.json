@@ -1,0 +1,63 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "yizi",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "yizi",
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "7a/QZLET9IDreTiBfRn2PD"
+          }
+        ],
+        "defaultAnimation": "san_yizi",
+        "_preCacheMode": 0,
+        "_animationName": "san_yizi",
+        "_N$skeletonData": {
+          "__uuid__": "76Jcy8xtlI+LMVLBMFBO5y"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "1dfKi5EphMxYSamJD72rYI"
+      },
+      "fileId": "46f3ocybtA74gx5npxBDxo"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 761.66,
+      "height": 316.85
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        613.738,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

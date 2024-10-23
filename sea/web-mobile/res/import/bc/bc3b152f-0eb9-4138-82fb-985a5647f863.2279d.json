@@ -1,0 +1,71 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "bolang",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bolang",
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "7a/QZLET9IDreTiBfRn2PD"
+          }
+        ],
+        "defaultAnimation": "bolang",
+        "_preCacheMode": 0,
+        "_animationName": "bolang",
+        "_N$skeletonData": {
+          "__uuid__": "76Jcy8xtlI+LMVLBMFBO5y"
+        }
+      },
+      {
+        "__type__": "cc.Widget",
+        "node": {
+          "__id__": 1
+        },
+        "_alignFlags": 1,
+        "_top": 692.4970000000001
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__id__": 0
+      },
+      "fileId": "8cV4NkF5pGyqe18B7mNRs+"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 761.66,
+      "height": 316.85
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        372.965,
+        483.0779999999999,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

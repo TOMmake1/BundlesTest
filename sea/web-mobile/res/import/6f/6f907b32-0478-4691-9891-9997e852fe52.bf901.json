@@ -1,0 +1,50 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "PropDropView",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "PropDropView",
+    "_components": [
+      {
+        "__type__": "c280cedyGVDG7v+8Xo5Ts+t",
+        "node": {
+          "__id__": 1
+        },
+        "itemPrefab": {
+          "__uuid__": "c8PIODwhdHTKb1bmJ3yh0W"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "6fkHsyBHhGkZiRmZfoUv5S"
+      },
+      "fileId": "2a1Rlj/Q1GFqAudWclBCtb"
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

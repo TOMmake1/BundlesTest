@@ -1,0 +1,104 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "island_1",
+      "texture": "130bbffab",
+      "rect": [
+        759,
+        3,
+        457,
+        421
+      ],
+      "offset": [
+        -23.5,
+        -13.5
+      ],
+      "originalSize": [
+        620,
+        448
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "island_1",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "island_1",
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_materials": [
+            {
+              "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+            }
+          ],
+          "_spriteFrame": {
+            "__uuid__": "0ePQ4hTx1AsqFY0fUK/AIw"
+          }
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 1
+          },
+          "_normalMaterial": {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          },
+          "_grayMaterial": {
+            "__uuid__": "3ae7efMv1CLq2ilvUY/tQi"
+          },
+          "zoomScale": 0.98,
+          "_N$transition": 3,
+          "transition": 3
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "87ke0ZCPJLFqEgQVKlmdd8"
+        },
+        "fileId": "84rqFusKBM06S1McL7DjJb"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 457,
+        "height": 421
+      },
+      "_trs": {
+        "__type__": "TypedArray",
+        "ctor": "Float64Array",
+        "array": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    }
+  ]
+]
