@@ -1,0 +1,55 @@
+
+tiekuilei.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tklfu
+  rotate: false
+  xy: 2, 219
+  size: 41, 28
+  orig: 43, 30
+  offset: 1, 1
+  index: -1
+tklsn
+  rotate: true
+  xy: 2, 180
+  size: 33, 136
+  orig: 33, 136
+  offset: 0, 0
+  index: -1
+tklsw
+  rotate: true
+  xy: 2, 145
+  size: 33, 136
+  orig: 33, 136
+  offset: 0, 0
+  index: -1
+tkltn
+  rotate: true
+  xy: 121, 215
+  size: 32, 74
+  orig: 32, 74
+  offset: 0, 0
+  index: -1
+tkltou
+  rotate: true
+  xy: 197, 198
+  size: 49, 50
+  orig: 51, 52
+  offset: 1, 1
+  index: -1
+tkltw
+  rotate: true
+  xy: 45, 217
+  size: 30, 74
+  orig: 30, 74
+  offset: 0, 0
+  index: -1
+tklxiong
+  rotate: true
+  xy: 140, 145
+  size: 68, 54
+  orig: 70, 56
+  offset: 1, 1
+  index: -1

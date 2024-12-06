@@ -1,0 +1,104 @@
+
+mao.png
+size: 125,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0011_star3
+  rotate: false
+  xy: 107, 92
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+_0013_star1
+  rotate: false
+  xy: 107, 92
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+_0012_star2
+  rotate: false
+  xy: 25, 25
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+_0014_hunmi
+  rotate: true
+  xy: 86, 86
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+baimao/beishang
+  rotate: false
+  xy: 2, 18
+  size: 21, 20
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+baimao/fennu
+  rotate: false
+  xy: 88, 19
+  size: 19, 18
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+baimao/gaoxing
+  rotate: false
+  xy: 107, 107
+  size: 16, 16
+  orig: 17, 16
+  offset: 1, 0
+  index: -1
+baimao/kuangxi
+  rotate: false
+  xy: 42, 21
+  size: 22, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+baimao/tou
+  rotate: false
+  xy: 42, 43
+  size: 41, 37
+  orig: 41, 39
+  offset: 0, 1
+  index: -1
+baimao/youxian
+  rotate: false
+  xy: 66, 17
+  size: 20, 20
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+heimao/tou
+  rotate: true
+  xy: 85, 39
+  size: 41, 37
+  orig: 41, 39
+  offset: 0, 1
+  index: -1
+huamao/tou
+  rotate: true
+  xy: 45, 82
+  size: 41, 39
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+lanmao/tou
+  rotate: true
+  xy: 2, 40
+  size: 41, 38
+  orig: 41, 40
+  offset: 0, 1
+  index: -1
+xianluomao/tou
+  rotate: false
+  xy: 2, 83
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1

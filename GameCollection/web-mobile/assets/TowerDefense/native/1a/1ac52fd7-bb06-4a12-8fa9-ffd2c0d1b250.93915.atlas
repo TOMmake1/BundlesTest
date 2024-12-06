@@ -1,0 +1,48 @@
+
+jiangsi.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jssn
+  rotate: false
+  xy: 31, 97
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+jsst
+  rotate: false
+  xy: 2, 63
+  size: 27, 57
+  orig: 27, 57
+  offset: 0, 0
+  index: -1
+jssw
+  rotate: true
+  xy: 2, 2
+  size: 59, 23
+  orig: 59, 23
+  offset: 0, 0
+  index: -1
+jst
+  rotate: false
+  xy: 27, 3
+  size: 42, 38
+  orig: 44, 40
+  offset: 1, 1
+  index: -1
+jstn
+  rotate: true
+  xy: 31, 70
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+jstw
+  rotate: true
+  xy: 31, 43
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
