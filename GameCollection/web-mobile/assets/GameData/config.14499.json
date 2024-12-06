@@ -1,0 +1,41 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "GameData",
+    "deps": [],
+    "uuids": [
+        "27847903-9d6e-4733-9bf2-b3819256dc80",
+        "393950d3-f4f7-4b0e-99a2-eb4bab883a8d",
+        "8d36b51d-3b30-423a-b2ec-0771a745eeb4"
+    ],
+    "paths": {
+        "393950d3-f4f7-4b0e-99a2-eb4bab883a8d": [
+            "json/HallData",
+            "cc.JsonAsset"
+        ],
+        "27847903-9d6e-4733-9bf2-b3819256dc80": [
+            "json/TowerDefenseData",
+            "cc.JsonAsset"
+        ],
+        "8d36b51d-3b30-423a-b2ec-0771a745eeb4": [
+            "json/TowerDefenseEnemys",
+            "cc.JsonAsset"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "27847903-9d6e-4733-9bf2-b3819256dc80",
+            "0cdf9",
+            "393950d3-f4f7-4b0e-99a2-eb4bab883a8d",
+            "38941",
+            "8d36b51d-3b30-423a-b2ec-0771a745eeb4",
+            "4c1a5"
+        ],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {}
+}

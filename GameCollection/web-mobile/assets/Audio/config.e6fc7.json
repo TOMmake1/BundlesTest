@@ -1,0 +1,66 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "Audio",
+    "deps": [],
+    "uuids": [
+        "424c196c-457b-490a-8c9e-c26a6588f62c",
+        "89cd1ace-e68e-477c-9f8c-f21beca7ae1d",
+        "8b24111e-a534-4096-bac6-9ef4b953e5bd",
+        "8f4499a6-749d-4d3c-b50f-5ef61be589f9",
+        "e4ffbc79-3bf3-432e-b322-233e47bd4d71"
+    ],
+    "paths": {
+        "424c196c-457b-490a-8c9e-c26a6588f62c": [
+            "bgm",
+            "cc.AudioClip"
+        ],
+        "89cd1ace-e68e-477c-9f8c-f21beca7ae1d": [
+            "bubble",
+            "cc.AudioClip"
+        ],
+        "e4ffbc79-3bf3-432e-b322-233e47bd4d71": [
+            "click",
+            "cc.AudioClip"
+        ],
+        "8b24111e-a534-4096-bac6-9ef4b953e5bd": [
+            "fail",
+            "cc.AudioClip"
+        ],
+        "8f4499a6-749d-4d3c-b50f-5ef61be589f9": [
+            "success",
+            "cc.AudioClip"
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "424c196c-457b-490a-8c9e-c26a6588f62c",
+            "6be9a",
+            "89cd1ace-e68e-477c-9f8c-f21beca7ae1d",
+            "f2ed7",
+            "8b24111e-a534-4096-bac6-9ef4b953e5bd",
+            "37b4c",
+            "8f4499a6-749d-4d3c-b50f-5ef61be589f9",
+            "19049",
+            "e4ffbc79-3bf3-432e-b322-233e47bd4d71",
+            "ee171"
+        ],
+        "native": [
+            "424c196c-457b-490a-8c9e-c26a6588f62c",
+            "22b2e",
+            "89cd1ace-e68e-477c-9f8c-f21beca7ae1d",
+            "06b03",
+            "8b24111e-a534-4096-bac6-9ef4b953e5bd",
+            "64bdd",
+            "8f4499a6-749d-4d3c-b50f-5ef61be589f9",
+            "5f6ed",
+            "e4ffbc79-3bf3-432e-b322-233e47bd4d71",
+            "fcbe3"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {}
+}

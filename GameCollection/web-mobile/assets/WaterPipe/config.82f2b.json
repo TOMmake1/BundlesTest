@@ -1,0 +1,455 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "WaterPipe",
+    "deps": [
+        "UI"
+    ],
+    "uuids": [
+        "01782ccc0",
+        "0b8068300",
+        "0bf3c4ce9",
+        "108daa0a-b6e5-42c0-a3a1-3ef146f636cf@f9941",
+        "1545fd23-aa37-4183-8425-e4771c2c8113@f9941",
+        "16e45262-c7e6-4b1c-aa44-1fe7ca86fe87",
+        "16e45262-c7e6-4b1c-aa44-1fe7ca86fe87@6c48a",
+        "16e45262-c7e6-4b1c-aa44-1fe7ca86fe87@f9941",
+        "19e9e70d-94a5-4394-ae1e-8e2a0e3286b6@f9941",
+        "1bdfff16-8e90-448c-86a5-8ce55318e7ec@f9941",
+        "29f471d8-3ff6-4755-be20-b377b4777350",
+        "29f471d8-3ff6-4755-be20-b377b4777350@6c48a",
+        "29f471d8-3ff6-4755-be20-b377b4777350@f9941",
+        "2c9b7be6-2eda-4b08-a188-05314922c5e1@f9941",
+        "3f876235-246a-402f-be05-7124b1ca6b6e@f9941",
+        "474ff8ba-d1b1-4217-949d-0876a79822de",
+        "474ff8ba-d1b1-4217-949d-0876a79822de@6c48a",
+        "474ff8ba-d1b1-4217-949d-0876a79822de@f9941",
+        "4a634a1b-94f7-4582-8346-46ca3fc44a8e@f9941",
+        "4d2b3f49-582c-48e9-9b7c-95889f7159ce",
+        "4d2b3f49-582c-48e9-9b7c-95889f7159ce@6c48a",
+        "4d2b3f49-582c-48e9-9b7c-95889f7159ce@f9941",
+        "4d86828f-3313-418e-b6e1-c3fd6af45b13@f9941",
+        "571322e9-301a-4c93-b9fa-7d7ef405643b",
+        "571322e9-301a-4c93-b9fa-7d7ef405643b@6c48a",
+        "571322e9-301a-4c93-b9fa-7d7ef405643b@f9941",
+        "65b08b87-a57c-4865-8741-cd69f7de1e10",
+        "65b08b87-a57c-4865-8741-cd69f7de1e10@6c48a",
+        "65b08b87-a57c-4865-8741-cd69f7de1e10@f9941",
+        "6d8c0e43-aacf-47d6-b800-f4dc03e86d32",
+        "6d8c0e43-aacf-47d6-b800-f4dc03e86d32@6c48a",
+        "6d8c0e43-aacf-47d6-b800-f4dc03e86d32@f9941",
+        "7a9961c1-cb4b-4cab-948e-4f8e258a8b45",
+        "7a9961c1-cb4b-4cab-948e-4f8e258a8b45@6c48a",
+        "7a9961c1-cb4b-4cab-948e-4f8e258a8b45@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "93738304-8fcb-4d06-8cb8-4d87f3924f47",
+        "97b77b07-b150-40de-b4da-8ecc3a05e640@f9941",
+        "9c8d6ba3-c01b-431d-9b2b-1d0610298ad6",
+        "9c8d6ba3-c01b-431d-9b2b-1d0610298ad6@6c48a",
+        "9c8d6ba3-c01b-431d-9b2b-1d0610298ad6@f9941",
+        "a920511a-8c51-4cd7-acc6-93d29d84b45e",
+        "a920511a-8c51-4cd7-acc6-93d29d84b45e@6c48a",
+        "a920511a-8c51-4cd7-acc6-93d29d84b45e@f9941",
+        "a968c85d-932f-4ee4-8f4d-4a5e96eb645f",
+        "a968c85d-932f-4ee4-8f4d-4a5e96eb645f@6c48a",
+        "a968c85d-932f-4ee4-8f4d-4a5e96eb645f@f9941",
+        "a9db56a8-d275-4a28-9cdd-63526a316d46",
+        "a9db56a8-d275-4a28-9cdd-63526a316d46@6c48a",
+        "a9db56a8-d275-4a28-9cdd-63526a316d46@f9941",
+        "b137bd54-cdcd-4da9-a4ef-02ce2de5459f",
+        "b7405ec2-b917-4983-899f-c0cd07ee90c3@f9941",
+        "b8752c03-c560-4ae9-a91d-fc6ae9ffb0f1@f9941",
+        "bd8119b9-fb0e-47ce-986f-175918db04b5@f9941",
+        "c98fe19f-69f5-4959-9910-bcc676879ed7",
+        "c98fe19f-69f5-4959-9910-bcc676879ed7@6c48a",
+        "c98fe19f-69f5-4959-9910-bcc676879ed7@f9941",
+        "ccb3dff0-c244-4433-ba4b-ac05c1efaae8",
+        "ccb3dff0-c244-4433-ba4b-ac05c1efaae8@6c48a",
+        "ccb3dff0-c244-4433-ba4b-ac05c1efaae8@f9941",
+        "eaee3d7a-e3db-4865-8fb0-d989364e6d42",
+        "eaee3d7a-e3db-4865-8fb0-d989364e6d42@6c48a",
+        "eaee3d7a-e3db-4865-8fb0-d989364e6d42@f9941",
+        "ef82ed46-9520-45ed-810f-3949a1440f22",
+        "f42c252f-ee57-41b4-b492-a6ad591d3384",
+        "f42c252f-ee57-41b4-b492-a6ad591d3384@6c48a",
+        "f42c252f-ee57-41b4-b492-a6ad591d3384@f9941",
+        "f6ac9da2-2cbe-4fd2-b213-4347a936ce12@f9941"
+    ],
+    "paths": {
+        "7a9961c1-cb4b-4cab-948e-4f8e258a8b45": [
+            "UI/GameUI/addtime",
+            "cc.ImageAsset"
+        ],
+        "7a9961c1-cb4b-4cab-948e-4f8e258a8b45@6c48a": [
+            "UI/GameUI/addtime/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "7a9961c1-cb4b-4cab-948e-4f8e258a8b45@f9941": [
+            "UI/GameUI/addtime/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "474ff8ba-d1b1-4217-949d-0876a79822de": [
+            "UI/GameUI/addtimetips",
+            "cc.ImageAsset"
+        ],
+        "474ff8ba-d1b1-4217-949d-0876a79822de@6c48a": [
+            "UI/GameUI/addtimetips/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "474ff8ba-d1b1-4217-949d-0876a79822de@f9941": [
+            "UI/GameUI/addtimetips/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "29f471d8-3ff6-4755-be20-b377b4777350": [
+            "UI/GameUI/addtimetips1",
+            "cc.ImageAsset"
+        ],
+        "29f471d8-3ff6-4755-be20-b377b4777350@6c48a": [
+            "UI/GameUI/addtimetips1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "29f471d8-3ff6-4755-be20-b377b4777350@f9941": [
+            "UI/GameUI/addtimetips1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a920511a-8c51-4cd7-acc6-93d29d84b45e": [
+            "UI/GameUI/BG",
+            "cc.ImageAsset"
+        ],
+        "a920511a-8c51-4cd7-acc6-93d29d84b45e@6c48a": [
+            "UI/GameUI/BG/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a920511a-8c51-4cd7-acc6-93d29d84b45e@f9941": [
+            "UI/GameUI/BG/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "9c8d6ba3-c01b-431d-9b2b-1d0610298ad6": [
+            "UI/GameUI/curve",
+            "cc.ImageAsset"
+        ],
+        "9c8d6ba3-c01b-431d-9b2b-1d0610298ad6@6c48a": [
+            "UI/GameUI/curve/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "9c8d6ba3-c01b-431d-9b2b-1d0610298ad6@f9941": [
+            "UI/GameUI/curve/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "ccb3dff0-c244-4433-ba4b-ac05c1efaae8": [
+            "UI/GameUI/dangqiandefen",
+            "cc.ImageAsset"
+        ],
+        "ccb3dff0-c244-4433-ba4b-ac05c1efaae8@6c48a": [
+            "UI/GameUI/dangqiandefen/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "ccb3dff0-c244-4433-ba4b-ac05c1efaae8@f9941": [
+            "UI/GameUI/dangqiandefen/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "c98fe19f-69f5-4959-9910-bcc676879ed7": [
+            "UI/GameUI/Gamebg",
+            "cc.ImageAsset"
+        ],
+        "c98fe19f-69f5-4959-9910-bcc676879ed7@6c48a": [
+            "UI/GameUI/Gamebg/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "c98fe19f-69f5-4959-9910-bcc676879ed7@f9941": [
+            "UI/GameUI/Gamebg/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "4d2b3f49-582c-48e9-9b7c-95889f7159ce": [
+            "UI/GameUI/jiashi1",
+            "cc.ImageAsset"
+        ],
+        "4d2b3f49-582c-48e9-9b7c-95889f7159ce@6c48a": [
+            "UI/GameUI/jiashi1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "4d2b3f49-582c-48e9-9b7c-95889f7159ce@f9941": [
+            "UI/GameUI/jiashi1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "16e45262-c7e6-4b1c-aa44-1fe7ca86fe87": [
+            "UI/GameUI/know",
+            "cc.ImageAsset"
+        ],
+        "16e45262-c7e6-4b1c-aa44-1fe7ca86fe87@6c48a": [
+            "UI/GameUI/know/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "16e45262-c7e6-4b1c-aa44-1fe7ca86fe87@f9941": [
+            "UI/GameUI/know/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a968c85d-932f-4ee4-8f4d-4a5e96eb645f": [
+            "UI/GameUI/lishidefen",
+            "cc.ImageAsset"
+        ],
+        "a968c85d-932f-4ee4-8f4d-4a5e96eb645f@6c48a": [
+            "UI/GameUI/lishidefen/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a968c85d-932f-4ee4-8f4d-4a5e96eb645f@f9941": [
+            "UI/GameUI/lishidefen/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "571322e9-301a-4c93-b9fa-7d7ef405643b": [
+            "UI/GameUI/lizi",
+            "cc.ImageAsset"
+        ],
+        "571322e9-301a-4c93-b9fa-7d7ef405643b@6c48a": [
+            "UI/GameUI/lizi/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "571322e9-301a-4c93-b9fa-7d7ef405643b@f9941": [
+            "UI/GameUI/lizi/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "f42c252f-ee57-41b4-b492-a6ad591d3384": [
+            "UI/GameUI/s",
+            "cc.ImageAsset"
+        ],
+        "f42c252f-ee57-41b4-b492-a6ad591d3384@6c48a": [
+            "UI/GameUI/s/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "f42c252f-ee57-41b4-b492-a6ad591d3384@f9941": [
+            "UI/GameUI/s/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "eaee3d7a-e3db-4865-8fb0-d989364e6d42": [
+            "UI/GameUI/straight",
+            "cc.ImageAsset"
+        ],
+        "eaee3d7a-e3db-4865-8fb0-d989364e6d42@6c48a": [
+            "UI/GameUI/straight/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "eaee3d7a-e3db-4865-8fb0-d989364e6d42@f9941": [
+            "UI/GameUI/straight/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "65b08b87-a57c-4865-8741-cd69f7de1e10": [
+            "UI/GameUI/tips",
+            "cc.ImageAsset"
+        ],
+        "65b08b87-a57c-4865-8741-cd69f7de1e10@6c48a": [
+            "UI/GameUI/tips/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "65b08b87-a57c-4865-8741-cd69f7de1e10@f9941": [
+            "UI/GameUI/tips/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "a9db56a8-d275-4a28-9cdd-63526a316d46": [
+            "UI/GameUI/tips1",
+            "cc.ImageAsset"
+        ],
+        "a9db56a8-d275-4a28-9cdd-63526a316d46@6c48a": [
+            "UI/GameUI/tips1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a9db56a8-d275-4a28-9cdd-63526a316d46@f9941": [
+            "UI/GameUI/tips1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6d8c0e43-aacf-47d6-b800-f4dc03e86d32": [
+            "UI/GameUI/youxijieshu",
+            "cc.ImageAsset"
+        ],
+        "6d8c0e43-aacf-47d6-b800-f4dc03e86d32@6c48a": [
+            "UI/GameUI/youxijieshu/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6d8c0e43-aacf-47d6-b800-f4dc03e86d32@f9941": [
+            "UI/GameUI/youxijieshu/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b137bd54-cdcd-4da9-a4ef-02ce2de5459f": [
+            "UI/prefabs/WaterPipeView",
+            "cc.Prefab"
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0bf3c4ce9": [
+            "4d2b3f49-582c-48e9-9b7c-95889f7159ce",
+            "6d8c0e43-aacf-47d6-b800-f4dc03e86d32",
+            "7a9961c1-cb4b-4cab-948e-4f8e258a8b45",
+            "9c8d6ba3-c01b-431d-9b2b-1d0610298ad6",
+            "16e45262-c7e6-4b1c-aa44-1fe7ca86fe87",
+            "65b08b87-a57c-4865-8741-cd69f7de1e10",
+            "571322e9-301a-4c93-b9fa-7d7ef405643b",
+            "a9db56a8-d275-4a28-9cdd-63526a316d46",
+            "a968c85d-932f-4ee4-8f4d-4a5e96eb645f",
+            "a920511a-8c51-4cd7-acc6-93d29d84b45e",
+            "c98fe19f-69f5-4959-9910-bcc676879ed7",
+            "ccb3dff0-c244-4433-ba4b-ac05c1efaae8",
+            "eaee3d7a-e3db-4865-8fb0-d989364e6d42",
+            "f42c252f-ee57-41b4-b492-a6ad591d3384"
+        ],
+        "0b8068300": [
+            "4d2b3f49-582c-48e9-9b7c-95889f7159ce@f9941",
+            "571322e9-301a-4c93-b9fa-7d7ef405643b@f9941",
+            "6d8c0e43-aacf-47d6-b800-f4dc03e86d32@f9941",
+            "7a9961c1-cb4b-4cab-948e-4f8e258a8b45@f9941",
+            "9c8d6ba3-c01b-431d-9b2b-1d0610298ad6@f9941",
+            "a920511a-8c51-4cd7-acc6-93d29d84b45e@f9941",
+            "a968c85d-932f-4ee4-8f4d-4a5e96eb645f@f9941",
+            "a9db56a8-d275-4a28-9cdd-63526a316d46@f9941",
+            "b137bd54-cdcd-4da9-a4ef-02ce2de5459f",
+            "c98fe19f-69f5-4959-9910-bcc676879ed7@f9941",
+            "ccb3dff0-c244-4433-ba4b-ac05c1efaae8@f9941",
+            "eaee3d7a-e3db-4865-8fb0-d989364e6d42@f9941"
+        ],
+        "01782ccc0": [
+            "4d2b3f49-582c-48e9-9b7c-95889f7159ce@6c48a",
+            "6d8c0e43-aacf-47d6-b800-f4dc03e86d32@6c48a",
+            "7a9961c1-cb4b-4cab-948e-4f8e258a8b45@6c48a",
+            "9c8d6ba3-c01b-431d-9b2b-1d0610298ad6@6c48a",
+            "16e45262-c7e6-4b1c-aa44-1fe7ca86fe87@6c48a",
+            "65b08b87-a57c-4865-8741-cd69f7de1e10@6c48a",
+            "571322e9-301a-4c93-b9fa-7d7ef405643b@6c48a",
+            "a9db56a8-d275-4a28-9cdd-63526a316d46@6c48a",
+            "a968c85d-932f-4ee4-8f4d-4a5e96eb645f@6c48a",
+            "a920511a-8c51-4cd7-acc6-93d29d84b45e@6c48a",
+            "c98fe19f-69f5-4959-9910-bcc676879ed7@6c48a",
+            "ccb3dff0-c244-4433-ba4b-ac05c1efaae8@6c48a",
+            "eaee3d7a-e3db-4865-8fb0-d989364e6d42@6c48a",
+            "f42c252f-ee57-41b4-b492-a6ad591d3384@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [
+            "01782ccc0",
+            "7c1ca",
+            "0b8068300",
+            "5ea2f",
+            "0bf3c4ce9",
+            "6c275",
+            "16e45262-c7e6-4b1c-aa44-1fe7ca86fe87@f9941",
+            "037b8",
+            "65b08b87-a57c-4865-8741-cd69f7de1e10@f9941",
+            "7a340",
+            "f42c252f-ee57-41b4-b492-a6ad591d3384@f9941",
+            "e414e"
+        ],
+        "native": [
+            "16e45262-c7e6-4b1c-aa44-1fe7ca86fe87",
+            "eb228",
+            "4d2b3f49-582c-48e9-9b7c-95889f7159ce",
+            "60c35",
+            "571322e9-301a-4c93-b9fa-7d7ef405643b",
+            "163da",
+            "65b08b87-a57c-4865-8741-cd69f7de1e10",
+            "aba4a",
+            "6d8c0e43-aacf-47d6-b800-f4dc03e86d32",
+            "e87b3",
+            "7a9961c1-cb4b-4cab-948e-4f8e258a8b45",
+            "1d22a",
+            "9c8d6ba3-c01b-431d-9b2b-1d0610298ad6",
+            "fdfbd",
+            "a920511a-8c51-4cd7-acc6-93d29d84b45e",
+            "8d888",
+            "a968c85d-932f-4ee4-8f4d-4a5e96eb645f",
+            "3a0f7",
+            "a9db56a8-d275-4a28-9cdd-63526a316d46",
+            "4007f",
+            "c98fe19f-69f5-4959-9910-bcc676879ed7",
+            "34ad1",
+            "ccb3dff0-c244-4433-ba4b-ac05c1efaae8",
+            "81b59",
+            "eaee3d7a-e3db-4865-8fb0-d989364e6d42",
+            "a3c66",
+            "f42c252f-ee57-41b4-b492-a6ad591d3384",
+            "88086"
+        ]
+    },
+    "redirect": [
+        "108daa0a-b6e5-42c0-a3a1-3ef146f636cf@f9941",
+        "0",
+        "1545fd23-aa37-4183-8425-e4771c2c8113@f9941",
+        "0",
+        "19e9e70d-94a5-4394-ae1e-8e2a0e3286b6@f9941",
+        "0",
+        "1bdfff16-8e90-448c-86a5-8ce55318e7ec@f9941",
+        "0",
+        "29f471d8-3ff6-4755-be20-b377b4777350",
+        "0",
+        "29f471d8-3ff6-4755-be20-b377b4777350@6c48a",
+        "0",
+        "29f471d8-3ff6-4755-be20-b377b4777350@f9941",
+        "0",
+        "2c9b7be6-2eda-4b08-a188-05314922c5e1@f9941",
+        "0",
+        "3f876235-246a-402f-be05-7124b1ca6b6e@f9941",
+        "0",
+        "474ff8ba-d1b1-4217-949d-0876a79822de",
+        "0",
+        "474ff8ba-d1b1-4217-949d-0876a79822de@6c48a",
+        "0",
+        "474ff8ba-d1b1-4217-949d-0876a79822de@f9941",
+        "0",
+        "4a634a1b-94f7-4582-8346-46ca3fc44a8e@f9941",
+        "0",
+        "4d86828f-3313-418e-b6e1-c3fd6af45b13@f9941",
+        "0",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "0",
+        "93738304-8fcb-4d06-8cb8-4d87f3924f47",
+        "0",
+        "97b77b07-b150-40de-b4da-8ecc3a05e640@f9941",
+        "0",
+        "b7405ec2-b917-4983-899f-c0cd07ee90c3@f9941",
+        "0",
+        "b8752c03-c560-4ae9-a91d-fc6ae9ffb0f1@f9941",
+        "0",
+        "bd8119b9-fb0e-47ce-986f-175918db04b5@f9941",
+        "0",
+        "ef82ed46-9520-45ed-810f-3949a1440f22",
+        "0",
+        "f6ac9da2-2cbe-4fd2-b213-4347a936ce12@f9941",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {
+        ".cconb": [
+            "93738304-8fcb-4d06-8cb8-4d87f3924f47"
+        ]
+    }
+}
